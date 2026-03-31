@@ -17,18 +17,6 @@
 
 </div>
 
----
-
-## 〈 Hakkımda 〉
-
-> *"Ağları anlamak, oyun dünyaları inşa etmek ve yapay zekayı keşfetmek — hepsini aynı anda yapıyorum."*
-
-Ben **Yunuscan Akgun**, Akdeniz Üniversitesi Yönetim Bilişim Sistemleri bölümü 4. sınıf öğrencisiyim. Üniversitenin IT departmanında **Network Stajyeri** olarak görev yaparken aynı zamanda Unity ile mobil oyunlar geliştiriyor, Blender'da 3D modeller tasarlıyor ve yapay zeka alanındaki yeni gelişmeleri takip ediyorum.
-
-Farklı disiplinleri birleştirerek **özgün çözümler** üretmek benim için bir tutku. Bir yanda Cisco router'ları yapılandırırken diğer yanda simya temalı bir mobil oyunun mekaniklerini kurgulamak — bu dualite beni ben yapıyor.
-
----
-
 ## 〈 Odak Alanlarım 〉
 
 <table>
@@ -82,13 +70,6 @@ Farklı disiplinleri birleştirerek **özgün çözümler** üretmek benim için
       <p>Simya temasını stack-based puzzle mekaniğiyle birleştiren bir <b>mobil oyun</b>. Karmaşık element kombinasyonları, akıcı bir UI/UX tasarımı ve özenle modellenmiş 3D varlıklarla inşa ediliyor.</p>
       <img src="https://img.shields.io/badge/Status-Active%20Dev-28a745?style=flat-square"/>
       <img src="https://img.shields.io/badge/Stack-Unity%20%7C%20C%23%20%7C%20Blender-000000?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>📺 trying somethings</h3>
-      <p>AI araçları, oyun geliştirme süreçleri ve teknoloji deneyleri üzerine içerik üretmeyi planladığım <b>YouTube kanalı</b>. Google Veo ile üretilen görsellerle desteklenecek.</p>
-      <img src="https://img.shields.io/badge/Status-Planning-f0a500?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Stack-AI%20%7C%20Video%20%7C%20Content-FF0000?style=flat-square"/>
-    </td>
   </tr>
 </table>
 
@@ -156,13 +137,5 @@ Farklı disiplinleri birleştirerek **özgün çözümler** üretmek benim için
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-yunuscan-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunuscan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yunuscan%20Akgun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunuscan-akgun)
-[![Email](https://img.shields.io/badge/E--Posta-İletişime%20Geç-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunuscan@example.com)
-
-<br/>
-
----
-
-<sub>⚡ Bu profil, kod ve yaratıcılığın kesişim noktasından selamlar. — <b>Yunuscan Akgun</b></sub>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yunuscan%20Akgun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunuscan-akgun-65736b391/)<br/>
 </div>
